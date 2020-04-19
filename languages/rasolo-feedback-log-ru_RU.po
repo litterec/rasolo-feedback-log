@@ -1,0 +1,200 @@
+# Author: Andrew Galagan
+# Ra-Solo Web Studio <andrew.galagan@gmail.com>, 2020.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Ra-Solo-Feedback-Log-1.1\n"
+"Report-Msgid-Bugs-To: <ra-solo.com.ua>\n"
+"POT-Creation-Date: 2020-04-07 12:32+0200\n"
+"PO-Revision-Date: 2020-04-16 21:28+0300\n"
+"Last-Translator: Andrew Galagan <ra-solo.com.ua>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 :n%10>=2 && n%10<=4 && (n"
+"%100<10 || n%100>=20) ? 1 : 2;\n"
+"Language-Team: \n"
+"Language: ru\n"
+"X-Generator: Poedit 2.3\n"
+
+msgid "Somecontext|Search: %d station"
+msgid_plural "Search: %d stations"
+msgstr[0] "Поиск: %d станция"
+msgstr[1] "Поиск: %d станции"
+msgstr[2] "Поиск: %d станций"
+
+#: rasolo_admin_messages.php:1
+msgid "Feedback log"
+msgstr "Журнал обращений"
+
+#: rasolo_admin_messages.php:1
+msgid "The input log index is not numeric"
+msgstr "Индекс элемента журнала не является целым числом"
+
+#: rasolo_admin_messages.php:1
+msgid "Such log item is not in array so far"
+msgstr "Этот елемент журнала не является массивом"
+
+#: rasolo_admin_messages.php:1
+msgid "Site Visitor Data"
+msgstr "Данные по обращениям посетителей сайта"
+
+#: rasolo_admin_messages.php:1
+msgid "Title"
+msgstr "Заголовок"
+
+#: rasolo_admin_messages.php:1
+msgid "Content"
+msgstr "Содержание"
+
+#: rasolo_admin_messages.php:1
+msgid "There are no records in the feedback log"
+msgstr "В журнале обращений нет записей"
+
+#: rasolo_admin_messages.php:1
+msgid "Some old records remained so far. Number"
+msgstr "Еще остались старые записи. Количество"
+
+#: rasolo_admin_messages.php:1
+msgid "Delete selected"
+msgstr "Удалить выбранные"
+
+#: rasolo_admin_messages.php:1
+msgid "Confirm deletion of selected entries"
+msgstr "Подтвердите удаление выбранных записей"
+
+#: rasolo_admin_messages.php:1
+msgid "Selected records have been deleted successfully"
+msgstr "Выбранные записи успешно удалены"
+
+#: rasolo_admin_messages.php:1
+msgid "Admin options"
+msgstr "Настройки администратора"
+
+#: rasolo_admin_messages.php:1
+msgid "External API password"
+msgstr "Пароль внешнего API"
+
+#: rasolo_admin_messages.php:1
+msgid "Captcha secret key"
+msgstr "Секретный ключ Google Captcha"
+
+#: rasolo_admin_messages.php:1
+msgid "Save changes"
+msgstr "Сохранить изменения"
+
+#: rasolo_admin_messages.php:1
+msgid "Your message has been sent."
+msgstr "Ваше сообщение было отправлено."
+
+#: rasolo_admin_messages.php:1
+msgid "Your message has not been sent. Please try again."
+msgstr "Ваше сообщение не было отправлено. Пожалуйста, попробуйте еще раз."
+
+#: rasolo_admin_messages.php:1
+msgid "Please fill in all required fields."
+msgstr "Пожалуйста, заполните все необходимые поля."
+
+#: rasolo_admin_messages.php:1
+msgid "An unknown error has been occurred."
+msgstr "Произошла неизвестная ошибка."
+
+#: rasolo_admin_messages.php:1
+msgid "A common error has been occurred."
+msgstr "Произошла ошибка."
+
+#: rasolo_admin_messages.php:1
+msgid "Failed to check captcha, error no. "
+msgstr "Не получилось проверить капчу, ошибка № "
+
+#: rasolo_admin_messages.php:1
+msgid "An error has been occurred while checking the captcha, most likely you are a robot."
+msgstr "Во время проверки капчи произошла ошибка, скорее всего вы - робот."
+
+#: rasolo_admin_messages.php:1
+msgid "The field %s has been remained blank."
+msgstr "Поле %s осталось пустым."
+
+#: rasolo_admin_messages.php:1
+msgid "No Google CAPTCHA test data."
+msgstr "Нет данных теста Google CAPTCHA."
+
+#: rasolo_admin_messages.php:1
+msgid "Take the test to distinguish you from the robot."
+msgstr "Пройдите тест, чтобы отличить вас от робота."
+
+#: rasolo_admin_messages.php:1
+msgid "User name"
+msgstr "Имя пользователя"
+
+#: rasolo_admin_messages.php:1
+msgid "User phone"
+msgstr "Телефон пользователя"
+
+#: rasolo_admin_messages.php:1
+msgid "User E-mail"
+msgstr "E-mail пользователя"
+
+#: rasolo_admin_messages.php:1
+msgid "Message title"
+msgstr "Тема сообщения"
+
+#: rasolo_admin_messages.php:1
+msgid "Message body"
+msgstr "Текст сообщения"
+
+#: rasolo_admin_messages.php:1
+msgid "Please enter your name, at least 3 characters"
+msgstr "Пожалуйста, введите ваше имя, минимум 3 символа"
+
+#: rasolo_admin_messages.php:1
+msgid "Enter the correct E-mail address."
+msgstr "Введите корректный адрес E-mail."
+
+#: rasolo_admin_messages.php:1
+msgid "Enter your message, min. 8 characters."
+msgstr "Введите ваше сообщение, мин. 8 символов."
+
+#: rasolo_admin_messages.php:1
+msgid "The phone number should consist of 10 digits, plus spaces."
+msgstr "Номер телефона должен состоять из 10 цифр, плюс пробелы."
+
+#: rasolo_admin_messages.php:1
+msgid "The phone number should consist of only 10 numeric characters, plus spaces."
+msgstr "Номер телефона должен состоять только из 10 цифровых символов, плюс пробелы."
+
+#: rasolo_admin_messages.php:1
+msgid "Error have been encountered while decoding CAPTCHA results. Error code is "
+msgstr "Произошла ошибка при декодировании результатов CAPTCHA. Код ошибки: "
+
+#: rasolo_admin_messages.php:1
+msgid "Message is: "
+msgstr "Сообщение: "
+
+#: rasolo_admin_messages.php:1
+msgid "An error occurred during an external request. The code is: "
+msgstr "Во время внешнего запроса произошла ошибка. Код: "
+
+#: rasolo_admin_messages.php:1
+msgid " Message is: "
+msgstr " Сообщение: "
+
+#: rasolo_admin_messages.php:1
+msgid "Missing external query result."
+msgstr "Отсутствует результат внешнего запроса."
+
+#: rasolo_admin_messages.php:1
+msgid "Your message has not been sent. Data conversion error."
+msgstr "Ваше сообщение не было отправлено. Ошибка преобразования данных."
+
+#: rasolo_admin_messages.php:1
+msgid "Code is "
+msgstr "Код: "
+
+#: rasolo_admin_messages.php:1
+msgid " second(s)."
+msgstr " сек."
+
+#: rasolo_admin_messages.php:1
+msgid "It is not a good idea to send messages so often. Please wait a moment: "
+msgstr "Нельзя так часто отправлять сообщения. Пожалуйста, подождите немного: "

@@ -1,0 +1,26 @@
+{
+    "name":"rasolo/rasolo-feedback-log",
+    "description":"Create log with feedbacks of site visitor",
+    "license":"MIT",
+    "version": "@dev",
+    "authors":{
+        "name":["Andrew V. Galagan"],
+        "email":["andrew.galagan@gmail.com"]
+    },
+    "repositories": [
+        {
+            "type": "composer",
+            "url": "https://wpackagist.org"
+        }
+    ],
+    "type": "wordpress-plugin",
+    "config": {
+        "vendor-dir": "wp-content/vendor",
+        "preferred-install": "dist"
+    },
+    "require":{
+        "php":">=5.5.0",
+        "johnpbloch/wordpress" : ">=4.9"
+    }
+
+}

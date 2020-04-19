@@ -1,0 +1,110 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+
+.rs_right {
+    color: #a6a6a6;
+    display: inline-block;
+    float: right;
+    background-color: rgb(225, 255, 235);
+    padding: 5px;
+    margin: 10px;
+    border: 2px solid #cbcbcb;
+    border-radius: 4px;
+    -webkit-border-radius:4px;
+    -moz-border-radius:4px;
+    -khtml-border-radius:4px;
+}
+
+#user_orders_list {
+    border-spacing: 26px 4px;
+}
+
+#user_orders_list th:nth-of-type(8)  {
+    width: 120px;
+}
+
+#user_orders_list td {
+    padding: 4px;
+}
+
+#user_orders_list td:nth-of-type(6)  {
+    width: 420px;
+}
+
+#cntnt {
+    width: 320px;
+}
+
+#delete_orders_submit {
+    margin: 8px 4px 16px 4px;
+    box-sizing: border-box;
+}
+
+#delete_submit_wrap {
+    text-align: right;
+    display: block;
+}
+
+#note_orders {
+    padding: 20px 60px;
+    color: #05351a;
+    background-color: #faf9be;
+
+    -webkit-border-radius:5px;
+    -moz-border-radius:5px;
+    -khtml-border-radius:5px;
+    border-radius: 5px;
+
+    display:inline;
+    margin-top:60px;
+    box-sizing: border-box;
+}
+
+#extra_orders {
+    text-align: center;
+}
+
+#wpbody-content {
+    margin-bottom: 70px;
+}
+
+.rasolo_option_block input[type=number] {
+    padding-right: 20px;
+    text-align: center;
+    font-size: 25px;
+    line-height: 1.4em;
+    height: 46px;
+}
+
+#nominal_unit_rate {
+    height: 120px;
+}
+
+
+.rasolo_option_block {
+    padding: 15px 30px;
+    border: 1px solid #c8c8c8;
+    width: 500px;
+    margin: 30px 5px;
+}
+
+.left_h1 {
+    font-size: 28px;
+}
+
+.rasolo_wrap h2 {
+    font-size: 20px;
+}
+.rasolo_wrap {
+    margin: 20px 0;
+}
+
+.top_space30 {
+    margin-top:30px;
+}
+
+.firebrick {
+    color: firebrick;
+}
